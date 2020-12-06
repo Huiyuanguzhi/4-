@@ -78,7 +78,6 @@
 第14天：2020年12月5日15:29:12
 	Lesson72: A car called Bluebird
 	Lesson73: The record-holder
-	
 第15天：2020年12月6日15:29:21
 	Lesson75: SOS
 		SOS="Save Our Souls"
@@ -87,6 +86,8 @@
 		It was not long before a helicopter arrived on the scene to rescue the 
 		survivors of the plane crash.不久，一架直升机飞抵失事现场，来
 		搭救这几个幸存者。
-	Lesson16: April Fools'Day
+	Lesson76: April Fools'Day
+		The have been expecting a splendid crop this year.他们一直期待今年获得
+		大丰收
 		
 		
